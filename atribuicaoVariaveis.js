@@ -1,5 +1,5 @@
 console.log("Atribuição de Variáveis");
-const idade = 45;
+const idades = 45;
 const nome = "Simone";
 const sobrenome = "Cabral";
 
