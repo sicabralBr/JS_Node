@@ -4,3 +4,4 @@ const nome = "Simone";
 const sobrenome = "Cabral";
 
 console.log(nome, sobrenome);
+console.log(nome + " " + sobrenome);
